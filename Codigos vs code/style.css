@@ -1,0 +1,56 @@
+
+h1 {
+    color:blue; 
+    font-size:50px;
+    text-align: center;
+    background-color: darksalmon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: blueviolet;
+    }
+
+p{
+    font-size:1rem;
+}
+
+spam {
+    color:red;
+}
+
+#primeiro{
+ 
+    font-family: 'Courier New', Courier, monospace;
+    color: coral;
+}
+
+#segundo{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: cadetblue;
+
+}
+
+#terceiro{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: slategray;
+
+}
+
+#quarto{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+#quinto{
+    font-family: 'Courier New', Courier, monospace;
+    color: burlywood;
+}
+
+i {
+    color: blue;
+}
